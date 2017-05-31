@@ -293,7 +293,7 @@ these steps:
    <li><p><a lt="fullscreen an element">Fullscreen <var>element</var></a> within <var>doc</var>.
 
    <li><p><a>Queue an animation frame task</a> for <var>doc</var> to <a>fire a fullscreen event</a>
-   named <code>fullscreenchange</code> for (<var>element</var>, <var>document</var>).
+   named <code>fullscreenchange</code> for (<var>element</var>, <var>doc</var>).
   </ol>
 
   <p class=note>The order in which elements are <a lt="fullscreen an element">fullscreened</a>
